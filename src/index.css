@@ -1,6 +1,6 @@
 @import 'modern-normalize';
 
-/* body {
+body {
   font-family: sans-serif;
   line-height: 1.5;
 }
@@ -25,4 +25,4 @@ ol {
 img {
   display: block;
   max-width: 100%;
-} */
+}
